@@ -1,0 +1,68 @@
+.topper h1 {
+  font-size: 40px;
+  color: #fff;
+  font-family: serif;
+  font-weight: bold;
+}
+
+.topper h2 {
+  color: #fff;
+  font-size: 14px
+}
+
+.topper p {
+  color: #fff;
+  font-size: 18px;
+}
+
+.work-exp h3 {
+  font-size: 22px;
+  font-family: serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.work-exp .container {
+  width: 800px;
+  margin: 20px auto 30px;
+  padding: 10px 100px 10px 100px;
+  border-radius: 25px;
+  background-color: rgba(255, 102, 0, 0.308);
+  position: relative;
+  text-align: left;
+}
+.edu h3 {
+  font-size: 22px;
+  font-family: serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.edu .container {
+  width: 800px;
+  margin: 20px auto 30px;
+  padding: 10px 100px 10px 100px;
+  border-radius: 25px;
+  background-color: rgba(255, 102, 0, 0.308);
+  position: relative;
+  text-align: left;
+}
+.work-exp h5 {
+  font-size: 16px;
+}
+
+.work-exp h4 {
+  font-weight: bold;
+  font-family: serif;
+  font-size: 18px;
+}
+
+.topper .container {
+  width: 700px;
+  margin: 20px auto 30px;
+  position: relative;
+  padding: 10px 50px 10px 50px;
+  border-radius: 15px;
+  background-color: rgba(115, 183, 204, 0.788);
+  text-align: left;
+}
+
